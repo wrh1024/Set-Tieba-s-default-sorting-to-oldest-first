@@ -3,6 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  自动点击正序
+// @match        https://tieba.baidu.com/*
 // @match        https://tieba.baidu.com/p/*
 // @grant        none
 // @run-at       document-idle
